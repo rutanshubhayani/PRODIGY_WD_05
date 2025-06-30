@@ -36,7 +36,7 @@ git clone https://github.com/rutanshubhayani/PRODIGY_WD_05.git
 
 Open weather.html in any modern web browser:
 ```bash
-start weather.html
+start Weather.html
 ```
 
 ## 📷 Screenshots
